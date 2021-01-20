@@ -1,2 +1,2 @@
 # Delphi-Ransomware
-Delphi Ransomware Source by MaMo434376
+Delphi Ransomware Source by NULL
